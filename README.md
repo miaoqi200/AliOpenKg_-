@@ -156,7 +156,7 @@
 
 
 
-**数据格式：**Turtle 和 N-triples
+**数据格式：Turtle 和 N-triples**
 
 1.N-triples
 
